@@ -26,7 +26,7 @@ function preload(){
   bgImg = loadImage("assets/bg.jpeg")
 
   bg2Img = loadImage("assets/bg2.jpg")
-  buttonImg = loadImage("assets/kill.png")
+  buttonImg = loadImage("assets/Kill.png")
 
   zombieImg= loadImage("assets/zombie.png")
  
